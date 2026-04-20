@@ -42,3 +42,8 @@ Unsplash (2026) Free stock images. Available at: https://unsplash.com
 
 W3Schools (2026) HTML Tutorial. Available at: https://www.w3schools.com
  (Accessed: 20 April 2026).
+## 🔗 GitHub Repository
+
+This project is hosted on GitHub and contains all source code and updates:
+
+https://github.com/ThaboNevil-coder/PawsClawsWebsite2
